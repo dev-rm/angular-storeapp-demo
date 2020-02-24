@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-storeapp-demo": {
+      "hosting": {
+        "angular-storeapp-demo": [
+          "angular-storeapp-demo"
+        ]
+      }
+    }
+  }
+}
